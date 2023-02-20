@@ -1,0 +1,53 @@
+html{box-sizing:border-box;font-size:100%}*,
+:after,
+:before{box-sizing:inherit}
+body{background-color:#060042; 
+    background-image:url(../img/150605065_262970398650288_8601515852763433001_n.png) ;
+    min-height:100vh;text-align:center;
+    font-family:Bebas Neue,regular}
+    .logo{width:100px}a.featured:hover,
+    a:hover{background-color:#B14847;color:#FACACA}
+    a{display:block;
+        max-width:400px;
+        margin:0 auto 15px;
+        padding:15px 20px;
+        font-size:1.25rem;
+        color:#FACACA;
+        border: 3px solid #2E645B;
+        text-decoration:none;
+        transition:all .2s ease-in-out}
+        a.featured{position:relative;
+            background-color:#fff;
+            color:#060042;
+            font-weight:700}
+        a.featured:before{content:"";
+            position:absolute;
+            top:2px;
+            left:2px;
+            width:calc(100% - 4px);
+            height:calc(100% - 4px);
+            border:2px solid #060042}
+            h2{font-size:20px;text-transform:uppercase;
+                font-weight:400;
+                color: #B14847;
+                letter-spacing:2px}
+                .channels{display:flex;
+                    max-width:400px;
+                    margin:0 auto}
+                .channels a{flex:1;padding:5px 10px;
+                    margin-right:10px;
+                    background-color:#060042;border:none}
+                    .channels a:last-child{margin-right:0}
+                    .channels a:hover{text-decoration:underline}
+            h3{font-size:20px;text-transform:uppercase;
+                font-weight:400;
+                color: #ff0062;
+                letter-spacing:2px}
+                .channels{display:flex;
+                    max-width:400px;
+                    margin:0 auto}
+                .channels a{flex:1;padding:5px 10px;
+                    margin-right:10px;
+                    background-color:#060042;border:none}
+                .channels a:last-child{margin-right:0}
+                .channels a:hover{text-decoration:underline}
