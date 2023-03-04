@@ -3,11 +3,11 @@ html{box-sizing:border-box;font-size:100%}*,
 :before{box-sizing:inherit}
 body{background-color:#060042; 
     background-image:url(../img/150605065_262970398650288_8601515852763433001_n.png) ;
-    height: 100vh;
-    background-repeat: no-repeat;
-    width: 100%;
-    background-size: cover;
+    text-align:center;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
     font-family:Bebas Neue,regular}
     .logo{width:100px}a.featured:hover,
     a:hover{background-color:#B14847;color:#FACACA}
@@ -29,8 +29,7 @@ body{background-color:#060042;
             top:2px;
             left:2px;
             width:calc(100% - 4px);
-            height:calc(100% - 4px);
-            border:2px solid #060042}
+            height:calc(100% - 4px);}
             h2{font-size:20px;text-transform:uppercase;
                 font-weight:400;
                 color: #B14847;
