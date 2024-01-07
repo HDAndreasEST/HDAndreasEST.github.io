@@ -2,7 +2,7 @@ html{box-sizing:border-box;font-size:100%}*,
 :after,
 :before{box-sizing:inherit}
 body{background-color:#060042; 
-    background-image:url(../img/zero_two_wallpaper_pink_hd_by_resonance007_dfsawd2.png) ;
+    background-image:url(../img/zero_two_wallpaper_pink_hd_by_resonance007_dfsawd2.png);
     backdrop-filter: blur(5px);
     text-align:center;
     background-position: center;
