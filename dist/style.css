@@ -2,7 +2,8 @@ html{box-sizing:border-box;font-size:100%}*,
 :after,
 :before{box-sizing:inherit}
 body{background-color:#060042; 
-    background-image:url(../img/150605065_262970398650288_8601515852763433001_n.png) ;
+    background-image:url(../img/zero_two_wallpaper_pink_hd_by_resonance007_dfsawd2.png) ;
+    backdrop-filter: blur(5px);
     text-align:center;
     background-position: center;
     background-repeat: no-repeat;
