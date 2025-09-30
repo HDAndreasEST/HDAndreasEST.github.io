@@ -2,7 +2,7 @@ html{box-sizing:border-box;font-size:100%}*,
 :after,
 :before{box-sizing:inherit}
 body{background-color:#060042; 
-    background-image:url(../img/zero_two_wallpaper_pink_hd_by_resonance007_dfsawd2.png);
+    background-image:url(../img/HDAndreasEST_offline_screen.png);
     backdrop-filter: blur(5px);
     text-align:center;
     background-position: center;
@@ -18,8 +18,8 @@ body{background-color:#060042;
         margin:0 auto 15px;
         padding:15px 20px;
         font-size:1.25rem;
-        color:#FACACA;
-        border: 3px solid #2E645B;
+        color:#ffffff;
+        border: 3px solid #000000;
         text-decoration:none;
         transition:all .2s ease-in-out}
         a.featured{position:relative;
@@ -35,7 +35,7 @@ body{background-color:#060042;
             border:2px solid #060042}
             h2{font-size:20px;text-transform:uppercase;
                 font-weight:400;
-                color: #B14847;
+                color: #ffffff;
                 letter-spacing:2px}
                 .channels{display:flex;
                     max-width:400px;
@@ -47,7 +47,7 @@ body{background-color:#060042;
                     .channels a:hover{text-decoration:underline}
             h3{font-size:20px;text-transform:uppercase;
                 font-weight:400;
-                color: #ff0062;
+                color: #ffffff;
                 letter-spacing:2px}
                 .channels{display:flex;
                     max-width:400px;
